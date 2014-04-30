@@ -24,8 +24,8 @@ Contains the following images & networks:
 <h5>Twitter</h5>
 <ul>
 <li>Background Image (2560 x 1600px)</i>
-<li>Header Image (1252 x 626px)</li>
-<li>Profile Photo (300 x 300px, displays as 71 x 71px)</li>
+<li>Header Image (1500 x 500px)</li>
+<li>Profile Photo (400 x 400px, displays as 200 x 200px, then 36 x 36px on scroll)</li>
 </ul>
 
 <h5>LinkedIn</h5>
