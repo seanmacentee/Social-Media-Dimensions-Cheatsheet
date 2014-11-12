@@ -38,3 +38,14 @@ Contains the following images & networks:
 <ul>
 <li>Cover Photo (2560 x 1440px)</li>
 </ul>
+
+
+
+
+<h3>How to use</h3>
+
+<b>Step 1</b>
+<p>Replace placeholder images with your own images</p>
+<b>Step 2</b>
+<p>When saving, make sure to 'Save for Web' and change the 'slices' option to 'All User Slices'</p>
+<img src="http://i.imgur.com/zS0YqJV.png"/>
